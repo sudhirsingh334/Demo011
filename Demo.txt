@@ -9,3 +9,7 @@ Hii Sudhir Kumar Singh
     Boll
     Cat
     Dog
+    
+    Eye
+    Fish
+    Girl
